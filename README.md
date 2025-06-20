@@ -9,11 +9,13 @@
 python-oops/
 ├── README.md
 ├── OOP_Basics/
-│   ├── question1.py         # Simple class and object creation
-│   ├── question2.py         # Method definitions and calls
+│   ├── Problem_1.py         # Simple class and object creation
+│   ├── Problem_2.py         # Method definitions and calls
+    ├── Problem_3.py         # More Method definitions and calls
 ├── OOP_Intermediate/
-│   ├── inheritance_example.py # Multi-level inheritance
-│   ├── encapsulation.py     # Encapsulation and private members
+│   ├── Multi_level_Inheritance.py         # Multi-level inheritance
+│   ├── Multiple_Inheritance.py            # Multiple Inheritance 
+    ├── Single_Inheritance.py              # Single Inheritance
 ├── OOP_Advanced/
 │   ├── polymorphism.py      # Overriding methods
 │   ├── abstract_classes.py  # Abstract base classes
